@@ -1,0 +1,25 @@
+body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.5;
+        }
+        button {
+            padding: 8px 15px;
+            background: peru;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 10px 0;
+        }
+        button:hover {
+            background: plum;
+        }
+        .demo-box {
+            padding: 15px;
+            border: 1px solid #ddd;
+            margin: 15px 0;
+            background: #f9f9f9;
+        }
